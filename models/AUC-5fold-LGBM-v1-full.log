@@ -1,0 +1,315 @@
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'gamma': 2.0, 'bagging_fraction': 0.0, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.3, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 1, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'gamma': 2.0, 'bagging_fraction': 0.0, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.3, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 1, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'gamma': 0.0, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.3, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 2, 'min_child_samples': 0, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.3, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.3, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.3, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 110, 'bagging_freq': 0, 'n_estimators': 5}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.08926952424091895, 'min_child_weight': 4.53280944221161, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 6, 'num_leaves': 28, 'bagging_freq': 5, 'n_estimators': 205}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 110, 'bagging_freq': 0, 'n_estimators': 5}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.24594796899739174, 'min_child_weight': 0.7185210575850753, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 1, 'min_child_samples': 7, 'num_leaves': 30, 'bagging_freq': 6, 'n_estimators': 221}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.27641420647513765, 'min_child_weight': 13.113540165501572, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 4, 'num_leaves': 11, 'bagging_freq': 4, 'n_estimators': 202}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.2057041872657207, 'min_child_weight': 5.948766786339148, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 6, 'num_leaves': 18, 'bagging_freq': 1, 'n_estimators': 247}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 110, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.09228508457059525, 'min_child_weight': 2.8782585227801483, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 5, 'num_leaves': 24, 'bagging_freq': 9, 'n_estimators': 212, 'force_col_wise': True}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.18820213023510887, 'min_child_weight': 1.331598768153901, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 3, 'num_leaves': 16, 'bagging_freq': 6, 'n_estimators': 218, 'force_col_wise': True}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'silent': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'silent': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True, 'silent': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8, 'force_col_wise': True, 'silent': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'silent': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True, 'silent': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 110, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.27172299261331845, 'min_child_weight': 12.15330567871177, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 9, 'min_child_samples': 9, 'num_leaves': 28, 'bagging_freq': 6, 'n_estimators': 102, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.2541934866281015, 'min_child_weight': 7.731963931785795, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 7, 'min_child_samples': 3, 'num_leaves': 11, 'bagging_freq': 0, 'n_estimators': 199, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.20963128524382277, 'min_child_weight': 8.942690403933756, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 12, 'min_child_samples': 9, 'num_leaves': 26, 'bagging_freq': 6, 'n_estimators': 127, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.26592331746658765, 'min_child_weight': 9.484020979384296, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 9, 'min_child_samples': 9, 'num_leaves': 23, 'bagging_freq': 1, 'n_estimators': 138, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.025631812950838495, 'min_child_weight': 0.43622685053128274, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 8, 'min_child_samples': 3, 'num_leaves': 14, 'bagging_freq': 8, 'n_estimators': 189, 'force_col_wise': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 200, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 30.0, 'min_child_weight': 3.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 15, 'min_child_samples': 12, 'num_leaves': 100, 'bagging_freq': 0, 'n_estimators': 8, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 10.0, 'min_child_weight': 5.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 0, 'min_child_samples': 2, 'num_leaves': 150, 'bagging_freq': 0, 'n_estimators': 2, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 20.0, 'min_child_weight': 8.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 10, 'min_child_samples': 8, 'num_leaves': 110, 'bagging_freq': 0, 'n_estimators': 5, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.002719275964224277, 'min_child_weight': 14.405939844113849, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 4, 'min_child_samples': 5, 'num_leaves': 28, 'bagging_freq': 6, 'n_estimators': 105, 'force_col_wise': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.157751162629073, 'min_child_weight': 15.760695123052562, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 9, 'min_child_samples': 6, 'num_leaves': 27, 'bagging_freq': 7, 'n_estimators': 192, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.4648732044959661, 'min_child_weight': 1.8231418607928234, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 2, 'min_child_samples': 4, 'num_leaves': 20, 'bagging_freq': 5, 'n_estimators': 88, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.21553995652055385, 'min_child_weight': 24.3764324732959, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 12, 'min_child_samples': 3, 'num_leaves': 18, 'bagging_freq': 9, 'n_estimators': 145, 'force_col_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.07, 'bagging_fraction': 0.2, 'min_split_gain': 0.6734511172170037, 'min_child_weight': 5.29581580810419, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'max_depth': 6, 'min_child_samples': 5, 'num_leaves': 13, 'bagging_freq': 4, 'n_estimators': 128, 'force_col_wise': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.1, 'bagging_fraction': 1, 'min_split_gain': 0.001, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.8, 'lambda_l2': 5.0, 'num_leaves': 5, 'max_depth': 0, 'force_col_wise': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.7, 'bagging_fraction': 1, 'min_split_gain': 0.05, 'min_child_weight': 1.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.9, 'lambda_l2': 7.0, 'num_leaves': 20, 'max_depth': 2, 'force_col_wise': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.1, 'bagging_fraction': 1, 'min_split_gain': 0.001, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.8, 'lambda_l2': 5.0, 'num_leaves': 5, 'max_depth': 0}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.1, 'bagging_fraction': 1, 'min_split_gain': 0.001, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.8, 'lambda_l2': 5.0, 'num_leaves': 5, 'max_depth': 0, 'force_row_wise': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.7, 'bagging_fraction': 1, 'min_split_gain': 0.05, 'min_child_weight': 1.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.9, 'lambda_l2': 7.0, 'num_leaves': 20, 'max_depth': 2, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.1, 'bagging_fraction': 1, 'min_split_gain': 0.08, 'min_child_weight': 2.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.8, 'lambda_l2': 9.0, 'num_leaves': 40, 'max_depth': 4, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.7, 'bagging_fraction': 1, 'min_split_gain': 0.001, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.9, 'lambda_l2': 5.0, 'num_leaves': 5, 'max_depth': 0, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.1, 'bagging_fraction': 1, 'min_split_gain': 0.05, 'min_child_weight': 1.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.8, 'lambda_l2': 7.0, 'num_leaves': 20, 'max_depth': 2, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.7, 'bagging_fraction': 1, 'min_split_gain': 0.08, 'min_child_weight': 2.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.9, 'lambda_l2': 9.0, 'num_leaves': 40, 'max_depth': 4, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.1, 'bagging_fraction': 1, 'min_split_gain': 0.001, 'min_child_weight': 0.0, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.8, 'lambda_l2': 5.0, 'num_leaves': 5, 'max_depth': 0, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.2680815066177645, 'bagging_fraction': 0.8803230239137909, 'min_split_gain': 0.02413710447350993, 'min_child_weight': 17.497369231515687, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.5095302822926895, 'lambda_l2': 1.5414857908443258, 'num_leaves': 27, 'max_depth': 5, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.7774724684520781, 'bagging_fraction': 0.8455631575627038, 'min_split_gain': 0.02866415691120159, 'min_child_weight': 12.690818746351356, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 4.432223213163757, 'lambda_l2': 0.06261154656020274, 'num_leaves': 25, 'max_depth': 11, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.666913054805301, 'bagging_fraction': 0.936651274526198, 'min_split_gain': 0.062461301299304973, 'min_child_weight': 38.10494386322013, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.13642540756269694, 'lambda_l2': 0.18606773578397595, 'num_leaves': 28, 'max_depth': 6, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.40081209953232133, 'bagging_fraction': 0.8412288120807407, 'min_split_gain': 0.004444563145861749, 'min_child_weight': 16.19337630224981, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.8370933509944573, 'lambda_l2': 0.8916445177876926, 'num_leaves': 30, 'max_depth': 10, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.2197360960642077, 'bagging_fraction': 0.9345029156062883, 'min_split_gain': 0.06785010024605696, 'min_child_weight': 16.2497702698943, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.3956931908168565, 'lambda_l2': 1.0385471679873708, 'num_leaves': 31, 'max_depth': 11, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.8669579389841069, 'bagging_fraction': 0.9488964904635754, 'min_split_gain': 0.03723633239959836, 'min_child_weight': 16.530463855556597, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 1.5243766777513685, 'lambda_l2': 0.6711769974816986, 'num_leaves': 30, 'max_depth': 10, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.6367239030010405, 'bagging_fraction': 0.8246842004409698, 'min_split_gain': 0.001, 'min_child_weight': 16.265149570212348, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 1.276849268355511, 'lambda_l2': 0.7478424580226989, 'num_leaves': 30, 'max_depth': 10, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.6733122338773195, 'bagging_fraction': 0.999907544070616, 'min_split_gain': 0.04577427190721815, 'min_child_weight': 17.725791210867705, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 1.623730005324366, 'lambda_l2': 1.6544975429289936, 'num_leaves': 30, 'max_depth': 11, 'force_row_wise': True, 'verbosity': -1}
+
+ Search parameters (5-fold validation):
+ {'boost_from_average': False, 'objective': 'binary', 'learning_rate': 0.01, 'feature_fraction': 0.702409221790065, 'bagging_fraction': 0.9421519216396873, 'min_split_gain': 0.06015973323345165, 'min_child_weight': 38.010379307713215, 'scale_pos_weight': 0.6, 'boosting_type': 'gbdt', 'metric': 'auc', 'tree_learner': 'serial', 'num_threads': 12, 'lambda_l1': 0.7193496331892885, 'lambda_l2': 0.3517432750888952, 'num_leaves': 27, 'max_depth': 6, 'force_row_wise': True, 'verbosity': -1}
+----------------------------------------------------------------------------------------------------------------------------------
+Final Result:
+Maximum XGBOOST value: 0.667219
+Best XGBOOST parameters:  {'bagging_fraction': 0.9488964904635754, 'feature_fraction': 0.8669579389841069, 'lambda_l1': 1.5243766777513685, 'lambda_l2': 0.6711769974816986, 'max_depth': 10.300150054354543, 'min_child_weight': 16.530463855556597, 'min_split_gain': 0.03723633239959836, 'num_leaves': 30.113476959198337}
+----------------------------------------------------------------------------------------------------------------------------------
+Final Result:
+Maximum LGBM value: 0.667219
+Best LGBM parameters:  {'bagging_fraction': 0.9488964904635754, 'feature_fraction': 0.8669579389841069, 'lambda_l1': 1.5243766777513685, 'lambda_l2': 0.6711769974816986, 'max_depth': 10.300150054354543, 'min_child_weight': 16.530463855556597, 'min_split_gain': 0.03723633239959836, 'num_leaves': 30.113476959198337}

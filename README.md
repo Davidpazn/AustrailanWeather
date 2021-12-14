@@ -11,7 +11,7 @@ Just execute:
 #### conda create --name <env_name> --file requirements.txt
 
 If you want to have this conda environment as a jupyter kernel, just to the following:
-(in terminal)
+(terminal)
 #### pip3 install ipykernel
 or 
 #### conda install -c anaconda ipykernel

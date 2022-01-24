@@ -18,3 +18,6 @@ or
 
 and then,
 #### python -m ipykernel install --user --name=<env_name>
+
+## License
+This repository is licensed under MIT License. See LICENSE for details.
